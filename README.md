@@ -1,2 +1,2 @@
-# backFlashCardGenerator
+# backendFlashCardGenerator
 backend code for flashcard generator
